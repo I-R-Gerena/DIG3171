@@ -9,7 +9,7 @@ title: Distant Reading Project
 # Distant Reading Assignment 
 **Voyant Visualizations:** 
 
-![image alt text] (https://github.com/I-R-Gerena/DIG3171/commit/04079e9abf5f2f0ad31668fe19262ca5771b8ac4#diff-cb06cea42246328db5a99981abdc86cac5fe1860100440c0c2411d7530044c89)
+![alt text] (https://github.com/I-R-Gerena/DIG3171/commit/04079e9abf5f2f0ad31668fe19262ca5771b8ac4#diff-cb06cea42246328db5a99981abdc86cac5fe1860100440c0c2411d7530044c89)
 
 **CoPilot Prompts and Replies Summarization**
 
