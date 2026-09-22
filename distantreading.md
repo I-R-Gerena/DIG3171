@@ -9,7 +9,7 @@ title: Distant Reading Project
 # Distant Reading Assignment 
 **Voyant Visualizations:** 
 
-![alt text](https://github.com/I-R-Gerena/DIG3171/blob/main/Voyant%20Word%20Clouds.png)
+![image alt text](https://github.com/I-R-Gerena/DIG3171/blob/main/Voyant%20Word%20Clouds.png)
 
 **CoPilot Prompts and Replies Summarization**
 
